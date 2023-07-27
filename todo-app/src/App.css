@@ -1,0 +1,44 @@
+body{
+  text-decoration: none;
+  
+}
+
+.bg-black{
+  background-color: black;
+}
+.bg-light-black{
+  background-color: #262626 !important;
+}
+.text-black{
+  color: black;
+}
+.text-light-black{
+  color: #262626;
+}
+
+.bg-black-primary{
+  background-color: #fcbc73 !important;
+}
+.text-dark-primary{
+  color: #fcbc73 !important;
+}
+
+.bg-light{
+  background-color: white;
+}
+.bg-light-2{
+  background-color: #dadcde;
+}
+.bg-light-primary{
+  background-color: #191659 !important;
+}
+.text-light-primary{
+color: #191659 !important;
+}
+ .brought{
+  text-overflow: ellipsis;
+  overFlow:hidden;
+ white-space: nowrap;
+ }
+ 
+ 
